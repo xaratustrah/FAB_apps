@@ -1,0 +1,8 @@
+Test Application for Barrier bucket signal generator with FAB
+------------------------------------------------------------
+
+20.02.2009/sh
+Test application for barrier bucket signal generation.
+No final version, just a proof of concept.
+
+

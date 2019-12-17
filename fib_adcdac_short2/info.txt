@@ -1,0 +1,10 @@
+
+
+27.01.2007/sh
+
+In this version the software provides a digital short circuit from ADC2 to DAC1.
+That is in a cyclic manner values are read from ADC2 and then fed to DAC1.
+
+
+
+

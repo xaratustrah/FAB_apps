@@ -1,0 +1,11 @@
+
+11.05.2007/sh
+Test program for the new fab_adcdac_firmware02 application.
+It is a short between ADC and DAC channel of the FAB-ADC/DAC board to test the capabilities.
+
+
+
+
+
+
+

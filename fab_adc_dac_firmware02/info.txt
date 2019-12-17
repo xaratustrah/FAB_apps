@@ -1,0 +1,22 @@
+Firmware Application for FAB_ADC/DAC_Rev.B Board
+------------------------------------------------
+
+27.04.2007/sh
+
+This folder contains the main application written for the CPLD on the 
+FAB-ADC/DAC Board Rev.B
+
+It implements the main register file for the CPLD which contains the 
+functionalities of the board. The firmware follows the TADI concept.
+
+
+11.02.2009/sh
+This project is currently used in the following projects:
+
+fib_adcdac_dac_fcn_gen1
+fib_adcdac_app3
+fib_adpll
+fib_agc
+fib_am_radio
+fib_offset_adpll
+fib_offset_upsampling_adpll

@@ -1,0 +1,14 @@
+
+02.08.2006/sh
+
+This folder contains software written for FIB which is able to provide
+FAB with clock and communication.
+
+07.12.2006/sh
+
+In this version the software provides a digital short circuit from ADC2 to DAC1.
+That is in a cyclic manner values are read from ADC2 and then fed to DAC1.
+
+
+
+

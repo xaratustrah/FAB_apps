@@ -1,0 +1,13 @@
+
+Quartus test:
+
+optimiert für Fläche:
+345 LE von 1270 (27%)
+mit der C3 Variante: Timing requirements met up to 214MHz
+
+Optimiert für Geschwindigkeit:
+444 LE (33%) up to 223 MHz
+
+mit der C5 Variante : Timing requirements NOT met ( nur bis 147 MHz)
+
+Praxis test:

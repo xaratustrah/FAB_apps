@@ -1,0 +1,7 @@
+Main Application for Automatic Gain Control for
+FIB and FAB_ADCDAC_Rev.B Boards
+-----------------------------------------------
+
+11.02.2009/sh
+This implements the main code for the FIB side of the FIB+FAB_ADCDAC_Rev.B board combination
+for the realisation of the fast automatic gain control system.

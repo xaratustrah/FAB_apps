@@ -1,0 +1,12 @@
+Test Application for FIB and FAB_ADCDAC_Rev.B
+---------------------------------------------
+
+07.12.2006/sh
+
+Sine Wave generator test programm using a look up table.
+The algorithm is still not good enough.
+
+
+
+
+

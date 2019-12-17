@@ -1,0 +1,12 @@
+Firmware Application for FAB_ADC/DAC_Rev.C and later
+----------------------------------------------------
+
+05.03.2009/sh
+This folder contains the code, equivalent to the fab_dac_dac_firmware02, 
+but for FAB_ADCDAC_RevC and later revisions with the CYCLONE III FPGAs.
+
+In this implementation, as in the case of fab_dac_dac_firmware02, the board is considered to be a slave to the FIB board.
+This means that the FAB Board will be clocked from FIB and will answer to the data request of the FIB Board.
+
+
+

@@ -1,0 +1,12 @@
+#Set Amplitude channel 2 to 2000
+
+00 05 07 02 00 04 D0 D4
+
+#Set Amplitude channel 2 to 4000
+
+00 05 0F 0A 00 04 A0 A4
+
+#Set Amplitude channel 2 to 5000
+
+00 05 13 16 00 04 88 8C
+
